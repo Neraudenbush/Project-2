@@ -95,4 +95,4 @@ Cross Validated MSE of 16.84321 for Random Forest Regression
 
 The chart below represents the graphs of the linear regression(Red) and the random forest(Green) over the cars data
 
-<img src="Chart Data.png" width="400" height="600" alt="hi" class="inline"/>
+<img src="Chart Data.png" width="600" height="400" alt="hi" class="inline"/>
